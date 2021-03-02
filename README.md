@@ -21,7 +21,7 @@ A single service api for generating discounts, invoice and customers
 - For Package Manager Console Visual Studio 
   >Update-Database
   
--For cmd/cli (Visual studio code)
+- For cmd/cli (Visual studio code)
   >dotnet ef database update
  
 # Launch
